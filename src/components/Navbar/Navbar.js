@@ -1,8 +1,15 @@
 import React, { Component } from 'react'
 import { Link } from "react-router-dom";
+import M from "materialize-css/dist/js/materialize.min.js";
 import './style.css'
 
 class Navbar extends Component {
+
+    componentDidMount() {
+        let sidenav = document.querySelector(".sidenav");
+        M.Sidenav.init(sidenav, {});
+      }
+
     render() {
         return (
             <div>
@@ -24,16 +31,20 @@ class Navbar extends Component {
                     </div> 
 
                     <ul className="sidenav" id="mobile-links">
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="portfolio.html">Portfolio</a></li>
-                        <li><a href="resume.html">Resume</a></li> 
-                        <li><a href="blog.html">Blog</a></li> 
+                        <li><Link to="/">Home</Link></li>
+                        <li><Link to="/portfolio">Portfolio</Link></li>
+                        <li><Link to="/resume">Resume</Link></li> 
+                        <li><Link to="/blog">Blog</Link></li> 
                     
                     </ul>
             </div>
+
+            
         )
     }
 }
+
+
 
 
 export default Navbar;
