@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c');
+   
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --gradient-color: linear-gradient(
+    90deg,
+    rgb(255, 88, 88, 0.8),
+    rgb(255, 183, 77, 0.8)  
+  );
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(198,206,201,0.5);
+  font-size: 16px;
+}
