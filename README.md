@@ -3,3 +3,5 @@
 ![project](https://user-images.githubusercontent.com/52837649/86432088-a10fca80-bcc4-11ea-8ede-7a9cef92246a.gif)
 
 ![resume](https://user-images.githubusercontent.com/52837649/86432269-25fae400-bcc5-11ea-816a-2b56b7022605.gif)
+
+![blog](https://user-images.githubusercontent.com/52837649/86432556-247deb80-bcc6-11ea-9079-c285f5426dbd.gif)
