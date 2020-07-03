@@ -1,27 +1,27 @@
 import React from 'react';
-import './style.css';
+import styles from './Article.module.css';
 
 function Article(props) {
     return (
         <div className="row justify-content-center">
-          <div className="card">
-            <div className="card-image">
-              <div className="background-image-first"></div>
-              <div className="publication-details">
-                <a href="/" className="author">
+          <div className={styles.card}>
+            <div className={styles.cardimage}>
+              <div className={styles.backgroundimage} style={{background: `url(${props.bg}) center no-repeat`, backgroundSize:"cover"}}></div>
+              <div className={styles.details}>
+                <a href="/" className={styles.author}>
                   <i className="fab fa-js-square"></i>
                   {props.topic}</a>
-                <span className="date"><i className="fas fa-calendar-alt"></i> {props.date}</span>
+                <span className={styles.date}><i className="fas fa-calendar-alt"></i> {props.date}</span>
               </div>
             </div>
       
-            <div className="card-content">
-              <h1 className="title">{props.title}</h1>
-              <h2 className="subtitle">{props.author}</h2>
-              <p className="description">
+            <div className={styles.cardcontent}>
+              <h1 className={styles.title}>{props.title}</h1>
+              <h2 className={styles.subtitle}>{props.author}</h2>
+              <p className={styles.description}>
                 {props.description}
               </p>
-              <div className="cta">
+              <div className={styles.cta}>
                 <a href={props.link}>Read more &rarr;</a>
               </div>
             </div>

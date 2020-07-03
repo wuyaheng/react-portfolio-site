@@ -9,6 +9,7 @@ class Blog extends Component {
             <Navbar />
             <div class="container-fluid mt-4 mb-0 pb-0">
                 <Article 
+                    bg="https://cdn.glitch.com/27911338-ce21-4c5e-8227-daa298f2e3ec%2Fback-img8.jpeg?v=1586351178768"
                     topic="Data Visualization with Chart.js"
                     date="March 31, 2020"
                     title="New York City Population by Borough, 1950 - 2020"
@@ -18,6 +19,7 @@ class Blog extends Component {
                 />
 
                 <Article 
+                    bg="https://cdn.glitch.com/27911338-ce21-4c5e-8227-daa298f2e3ec%2Fback-img6.jpeg?v=1586351531978"
                     topic="Data Visualization with CanvasJS"
                     date="April 7, 2020"
                     title="Best Programming Languages to Learn in 2020"
