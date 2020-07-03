@@ -7,7 +7,7 @@ import './style.css';
 class Home extends Component {
     render() {
         return (
-            <div>
+            <>
             <Navbar />
             <Goo />
 
@@ -75,7 +75,7 @@ class Home extends Component {
         <p>© 2020 Phoebe Yaheng Wu</p>
       </div>
 
-            </div>
+            </>
         )
     }
 }
