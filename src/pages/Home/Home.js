@@ -23,13 +23,13 @@ class Home extends Component {
                           <div id="table">
                          {/* <Banner /> */}
                          <h3>Hi, I'm Phoebe</h3> 
-                         <h5> Accountant | Programmer</h5><br/>
+                         <h5>Accountant | Programmer</h5><br/>
                           </div>
 
 
                           <button type="button" id="resume" className="white-text btn waves-effect waves-light"><a href="https://cdn.glitch.com/bd6cde95-6d6d-44ba-a589-0cbd42159bd4%2FPhoebe%20(Yaheng)%20Wu%20Resume.pdf?v=1591280845655" download className="white-text">View My Resume</a></button> 
                       
-                    </div>
+                    </div> 
                 </div>
             </div>
 
