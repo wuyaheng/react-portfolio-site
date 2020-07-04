@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import Navbar from '../../components/Navbar/Navbar';
-import Goo from '../../components/Goo/Goo';
+// import Goo from '../../components/Goo/Goo';
+import Landing from '../../components/Landing/Landing';
 import Banner from '../../components/Banner/Banner';
 import './style.css';
 
@@ -9,7 +10,8 @@ class Home extends Component {
         return (
             <div>
             <Navbar />
-            <Goo />
+            {/* <Goo /> */}
+            <Landing /> 
 
             <div className="container">
                 
