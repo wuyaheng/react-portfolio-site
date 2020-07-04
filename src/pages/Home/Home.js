@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import Navbar from '../../components/Navbar/Navbar';
 // import Goo from '../../components/Goo/Goo';
 import Landing from '../../components/Landing/Landing';
-import Banner from '../../components/Banner/Banner';
+// import Banner from '../../components/Banner/Banner';
 import './style.css';
 
 class Home extends Component {
@@ -21,7 +21,9 @@ class Home extends Component {
                   
                         <div className="banner-text">
                           <div id="table">
-                         <Banner />
+                         {/* <Banner /> */}
+                         <h3>Hi, I'm Phoebe</h3> 
+                         <h5> Accountant | Programmer</h5><br/>
                           </div>
 
 

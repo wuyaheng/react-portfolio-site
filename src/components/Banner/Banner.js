@@ -18,7 +18,7 @@ function Banner() {
             })
             .interpolate(x => `scale(${x})`)
         }}>
-        <h5>Hi, I'm Phoebe<br/><br/>Accountant | Programmer</h5>
+        <h5>Hi, I'm Phoebe<br/><br/>Accountant | Programmer</h5><br/>
         
       </animated.div>
     </div>
