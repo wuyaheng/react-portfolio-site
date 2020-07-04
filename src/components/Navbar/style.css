@@ -19,3 +19,18 @@ a {
   text-decoration: none;
   color: inherit;
 }
+
+
+.sidenav {
+  position: fixed;
+  z-index: 1000;
+  top: 0px;
+  right: 0;
+  background: url('https://cdn.glitch.com/0818f487-5b8b-4080-900d-ad787673d146%2Fphoto.jpeg?v=1593877311405') no-repeat center fixed;
+  background-size: cover;
+  padding-top: 1px;
+}
+
+.sidenav li {
+  color: #ffffff;
+}

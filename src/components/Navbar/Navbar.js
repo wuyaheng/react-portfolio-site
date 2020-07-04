@@ -30,7 +30,7 @@ class Navbar extends Component {
                     </nav>
                     </div> 
 
-                    <ul className="sidenav" id="mobile-links">
+                    <ul className="sidenav" id="mobile-links"> 
                         <li><Link to="/">Home</Link></li>
                         <li><Link to="/portfolio">Portfolio</Link></li>
                         <li><Link to="/resume">Resume</Link></li> 
