@@ -22,8 +22,8 @@ class Home extends Component {
                         <div className="banner-text">
                           <div id="table">
                          {/* <Banner /> */}
-                         <h3>Hi, I'm Phoebe</h3> 
-                         <h5>Accountant | Programmer</h5><br/>
+                         <h3 className="text">Hi, I'm Phoebe</h3> 
+                         <h5 className="text">Accountant | Programmer</h5><br/>
                           </div>
 
 

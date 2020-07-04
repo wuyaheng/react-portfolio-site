@@ -10,7 +10,7 @@ function Project(props) {
                     </div>
                     
                     <div className="card-body text-center">
-                      <h5 className="card-title">{props.name}</h5> 
+                      <h5 className={styles.cardtitle}>{props.name}</h5> 
                       <p className="card-text">{props.description}</p> 
                       <div className="row m-0">
                     <div className="col-6 m-0">

@@ -1,4 +1,4 @@
-h3, h5 {
+h3 .text, h5 .text {
   animation: changeColor 4s ease-out;
 }
 
