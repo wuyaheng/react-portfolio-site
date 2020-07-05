@@ -1,8 +1,7 @@
 import React, { Component } from 'react'
 import Navbar from '../../components/Navbar/Navbar';
-// import Goo from '../../components/Goo/Goo';
 import Landing from '../../components/Landing/Landing';
-// import Banner from '../../components/Banner/Banner';
+import 'animate.css';
 import './style.css';
 
 class Home extends Component {
@@ -10,7 +9,6 @@ class Home extends Component {
         return (
             <div>
             <Navbar />
-            {/* <Goo /> */}
             <Landing /> 
 
             <div className="container">
@@ -21,9 +19,8 @@ class Home extends Component {
                   
                         <div className="banner-text">
                           <div id="table">
-                         {/* <Banner /> */}
-                         <h3 className="text">Hi, I'm Phoebe</h3> 
-                         <h5 className="text">Accountant | Programmer</h5><br/>
+                         <h3 className="animate__animated animate__fadeInTopLeft animate__delay-2s text">Hi, I'm Phoebe</h3> 
+                         <h5 className="animate__animated animate__lightSpeedInRight animate__delay-3s text">Aspiring CPA | Web Developer</h5><br/>
                           </div>
 
 

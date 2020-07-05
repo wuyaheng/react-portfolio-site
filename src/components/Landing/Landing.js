@@ -59,7 +59,7 @@ export default class Landing extends Component {
               textShadow: "2px 2px 8px rgba(0, 0, 0, 0.5)"
             }}
           >
-            {/* React Fluid Animation */}
+            {/* Hey, it's Phoebe */}
           </h1>
         </div>
       </div>
