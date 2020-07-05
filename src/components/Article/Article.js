@@ -1,5 +1,6 @@
 import React from 'react';
 import styles from './Article.module.css';
+import 'animate.css';
 
 function Article(props) {
     return (
