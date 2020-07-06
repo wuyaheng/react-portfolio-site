@@ -1,22 +1,10 @@
-h3 .text, h5 .text {
-  animation: changeColor 4s ease-out;
-}
-
-
-@keyframes changeColor {
-	from {
-    color: black;
-	}
-	to {
-    opacity: 1;
-    color: white;
-	}
-}
-
+ .job {
+  font-size: 1.5rem !important;
+ }
 
 .icon-bar {
     position: fixed;
-    top: 30%;
+    top: 25%;
     right: 0%;
   }
 

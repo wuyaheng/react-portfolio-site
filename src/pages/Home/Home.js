@@ -20,7 +20,7 @@ class Home extends Component {
                         <div className="banner-text">
                           <div id="table">
                          <h3 className="animate__animated animate__fadeInTopLeft animate__delay-2s text">Hi, I'm Phoebe</h3> 
-                         <h5 className="animate__animated animate__lightSpeedInRight animate__delay-3s text">Aspiring CPA | Web Developer</h5><br/>
+                         <h5 className="animate__animated animate__lightSpeedInRight animate__delay-3s text job">Aspiring CPA | Web Developer</h5><br/>
                           </div>
 
 
@@ -44,28 +44,28 @@ class Home extends Component {
               
 
 
-                  {/* <a target='_blank' rel="noopener noreferrer" href="https://twitter.com/YahengWu" id="twitter" className="waves-effect waves-light" type="button" role="button">
+                  <a target='_blank' rel="noopener noreferrer" href="https://twitter.com/YahengWu" id="twitter" className="waves-effect waves-light" type="button" role="button">
                     <i className="fab fa-twitter"> </i>
-                  </a> */}
+                  </a>
               
              
-                  <a target='_blank' rel="noopener noreferrer" href="https://www.youtube.com/channel/UCUiy0e6bdTxw9US54w4EHYA?view_as=subscriber" id="youtube" className="waves-effect waves-light" type="button" role="button">
+                  {/* <a target='_blank' rel="noopener noreferrer" href="https://www.youtube.com/channel/UCUiy0e6bdTxw9US54w4EHYA?view_as=subscriber" id="youtube" className="waves-effect waves-light" type="button" role="button">
                     <i className="fab fa-youtube"> </i>
                   </a>
-            
+             */}
               
 
 
                
-                  {/* <a target='_blank' rel="noopener noreferrer" href="https://www.facebook.com/PhoebeYahengWu" id="facebook" className="waves-effect waves-light" type="button" role="button">
+                  <a target='_blank' rel="noopener noreferrer" href="https://www.facebook.com/PhoebeYahengWu" id="facebook" className="waves-effect waves-light" type="button" role="button">
                     <i className="fab fa-facebook"></i>
-                  </a> */}
+                  </a>
               
 
              
-                  {/* <a target='_blank' rel="noopener noreferrer" href="https://www.instagram.com/wuyaheng/?hl=en" id="instagram" className="waves-effect waves-light" type="button" role="button">
+                  <a target='_blank' rel="noopener noreferrer" href="https://www.instagram.com/wuyaheng/?hl=en" id="instagram" className="waves-effect waves-light" type="button" role="button">
                     <i className="fab fa-instagram"></i>
-                  </a>  */}
+                  </a> 
  
            
           
