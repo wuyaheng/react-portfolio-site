@@ -1,6 +1,5 @@
 import React from 'react';
 import styles from './Article.module.css';
-import 'animate.css';
 
 function Article(props) {
     return (
@@ -23,7 +22,7 @@ function Article(props) {
                 {props.description}
               </p>
               <div className={styles.cta}>
-                <a href={props.link}>Read more &rarr;</a>
+                <a target='_blank' rel="noopener noreferrer" href={props.link}>Read more &rarr;</a>
               </div>
             </div>
           </div>

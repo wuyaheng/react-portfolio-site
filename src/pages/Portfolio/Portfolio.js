@@ -1,11 +1,13 @@
 import React, { Component } from 'react'
 import Navbar from '../../components/Navbar/Navbar';
 import Project from '../../components/Project/Project';
+
 class Portfolio extends Component {
     render() {
         return (
             <>
             <Navbar />
+        
             <div class="container-fluid mt-4 mb-0 pb-3">
                 <div class="row pb-0 mb-0">
                 <Project 

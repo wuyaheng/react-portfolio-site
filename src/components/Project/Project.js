@@ -15,10 +15,10 @@ function Project(props) {
                       <p className="card-text animate__animated animate__zoomIn animate__delay-1s">{props.description}</p> 
                       <div className="row m-0">
                     <div className="col-6 m-0">
-                      <a href={props.github} id={styles.learnMoreBtn} className="btn waves-effect waves-light white-text">GitHub</a>
+                      <a target='_blank' rel="noopener noreferrer" href={props.github} id={styles.learnMoreBtn} className="btn waves-effect waves-light white-text">GitHub</a>
                     </div>
                     <div className="col-6 m-0">
-                      <a href={props.site} id={styles.learnMoreBtn} className="btn waves-effect waves-light white-text">Live Site</a>
+                      <a target='_blank' rel="noopener noreferrer" href={props.site} id={styles.learnMoreBtn} className="btn waves-effect waves-light white-text">Live Site</a>
                     </div>
                     </div>
                     </div>

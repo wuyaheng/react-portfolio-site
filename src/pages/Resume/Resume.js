@@ -46,26 +46,26 @@ class Resume extends Component {
                     <h1 className="title">Connect</h1>
                     <div className="info-section link">
                     <i className="fab fa-github"></i>
-                    <a rel="author" href="https://github.com/PhoebeYahengWu">
+                    <a target='_blank' rel="noopener noreferrer" href="https://github.com/PhoebeYahengWu">
                         <span>PhoebeYahengWu@github</span>
                     </a>
                     </div>
                     <div className="info-section link">
                         <i className="fab fa-linkedin-in"></i>
-                    <a rel="author" href="https://www.linkedin.com/in/yahengwu/">
+                    <a target='_blank' rel="noopener noreferrer" href="https://www.linkedin.com/in/yahengwu/">
                         <span>linkedin.com/in/yahengwu</span>
                     </a>
                     </div>
                     <div className="info-section link">
                         <i className="fab fa-twitter"></i>
-                    <a rel="author" href="https://twitter.com/YahengWu">
+                    <a target='_blank' rel="noopener noreferrer" href="https://twitter.com/YahengWu">
                         <span>twitter.com/YahengWu</span>
                     </a>
                     </div>
 
                     <div className="info-section link">
                         <i className="fab fa-facebook-f"></i>
-                    <a rel="author" href="https://www.facebook.com/PhoebeYahengWu">
+                    <a target='_blank' rel="noopener noreferrer" href="https://www.facebook.com/PhoebeYahengWu">
                         <span>facebook.com/PhoebeYahengWu</span>
                     </a>
                     </div>

@@ -8,11 +8,13 @@
     "@testing-library/user-event": "^7.2.1",
     "animate.css": "^4.1.0",
     "materialize-css": "^1.0.0",
+    "node-sass": "^4.14.1",
     "random": "^2.2.0",
     "react": "^16.13.1",
     "react-dat-gui": "^4.0.3",
     "react-dom": "^16.13.1",
     "react-fluid-animation": "^1.0.1",
+    "react-particles-js": "^3.2.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
     "react-spring": "^8.0.27"
