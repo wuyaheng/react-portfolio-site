@@ -9,7 +9,7 @@
 ![blog](https://user-images.githubusercontent.com/52837649/86432556-247deb80-bcc6-11ea-9079-c285f5426dbd.gif)
 
 ## Description
-A personal portfolio site created using React.
+My portfolio site created using React.
 
 ## Table of Contents
 
