@@ -9,7 +9,7 @@
 ![blog](https://user-images.githubusercontent.com/52837649/86432556-247deb80-bcc6-11ea-9079-c285f5426dbd.gif)
 
 ## Description
-My portfolio site created using React.
+My personal portfolio website was created using React including four pages, where I used react-fluid-animation, bootstrap, animate.css and JavaScript.
 
 ## Table of Contents
 
