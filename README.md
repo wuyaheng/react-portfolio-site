@@ -13,30 +13,25 @@ My personal portfolio website was created using React including four pages, wher
 
 ## Table of Contents
 
-* Tech/Framework Used
+* [Tech/Framework Used](#TechUsed)
 
-* Usage
+* [link](#Link)
 
-* Contributor
+* [Usage](#usage) 
 
-* link
+* [Questions](#Questions)
 
-* Questions
-
-
-## Tech/Framework Used
+## TechUsed
 React, JavaScript, react-fluid-animation, react-spring
 
-## Usage
-Click anywhere on the landing page to see the effect
-
-## Contributor
-Phoebe Yaheng Wu
-
-## Link to project URL
+## Link
 https://wuyaheng.netlify.app/
 
-## Questions
-For questions about the project contact PhoebeYahengWu or directly at wuyaheng2016@gmail.com
+## Usage
+Click anywhere on the landing page to see the effect.
 
+## Questions
+![user profile image](https://avatars0.githubusercontent.com/u/52837649?v=4)
+
+For questions about the project contact PhoebeYahengWu or directly at wuyaheng2016@gmail.com.
 
