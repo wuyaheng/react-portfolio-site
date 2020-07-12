@@ -1,6 +1,6 @@
 # React Portfolio Site
 
-![home](https://user-images.githubusercontent.com/52837649/86431699-7709d880-bcc3-11ea-944f-1e8dc4ea52a8.gif)
+![home](https://user-images.githubusercontent.com/52837649/86547167-0e5e6e00-bf06-11ea-9fc4-ac1fed0f3727.gif)
 
 ![project](https://user-images.githubusercontent.com/52837649/86432088-a10fca80-bcc4-11ea-8ede-7a9cef92246a.gif)
 
@@ -9,34 +9,29 @@
 ![blog](https://user-images.githubusercontent.com/52837649/86432556-247deb80-bcc6-11ea-9079-c285f5426dbd.gif)
 
 ## Description
-A personal portfolio site made from React.
+My personal portfolio website was created using React including four pages, where I used react-fluid-animation, bootstrap, animate.css and JavaScript.
 
 ## Table of Contents
 
-* Tech/Framework Used
+* [Tech/Framework Used](#TechUsed)
 
-* Usage
+* [link](#Link)
 
-* Contributor
+* [Usage](#usage) 
 
-* link
+* [Questions](#Questions)
 
-* Questions
-
-
-## Tech/Framework Used
+## TechUsed
 React, JavaScript, react-fluid-animation, react-spring
 
-## Usage
-Click anywhere on the landing page to see the effect
-
-## Contributor
-Phoebe Yaheng Wu
-
-## Link to project URL
+## Link
 https://wuyaheng.netlify.app/
 
-## Questions
-For questions about the project contact PhoebeYahengWu or directly at wuyaheng2016@gmail.com
+## Usage
+Click anywhere on the landing page to see the effect.
 
+## Questions
+![user profile image](https://avatars0.githubusercontent.com/u/52837649?v=4)
+
+For questions about the project contact PhoebeYahengWu or directly at wuyaheng2016@gmail.com.
 
