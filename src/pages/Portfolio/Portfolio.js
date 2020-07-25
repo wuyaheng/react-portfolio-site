@@ -9,6 +9,31 @@ class Portfolio extends Component {
             <Navbar />
         
             <div class="container-fluid mt-4 mb-0 pb-3">
+            <div class="row pb-0 mb-0">
+                <Project 
+                img="https://images.pexels.com/photos/988508/pexels-photo-988508.jpeg?cs=srgb&dl=tilt-lens-photography-of-black-wooden-table-988508.jpg&fm=jpg"
+                name="Foodie App"
+                description="Fetch data from yelp API and save to MongoDB" 
+                github="https://github.com/PhoebeYahengWu/foodie"
+                site="https://polar-castle-87426.herokuapp.com/" 
+                />
+
+                <Project 
+                img="https://cdn.glitch.com/03279a54-ead6-43fe-840a-8180cf9f1fc1%2F2.webp?v=1595652963132"
+                name="Beamifi App"
+                description="Log in and enter into the same room with friends"
+                github="https://github.com/PhoebeYahengWu/beamifi-chat-app"
+                site="https://beamifi-app.herokuapp.com/login" 
+                />
+
+                <Project 
+                img="https://cdn.glitch.com/03279a54-ead6-43fe-840a-8180cf9f1fc1%2F3.webp?v=1595653108037"
+                name="Search Yelp"
+                description="Created using React and yelp API"
+                github="https://github.com/PhoebeYahengWu/coffee-nearby-app"
+                site="https://joli-moliere-06904.herokuapp.com/" 
+                />
+                </div>
                 <div class="row pb-0 mb-0">
                 <Project 
                 img="https://cdn.glitch.com/2e860639-24bb-4041-8055-aed7de1c1244%2Fimg-project1.jpeg?v=1584760380680"
@@ -27,12 +52,14 @@ class Portfolio extends Component {
                 />
 
                 <Project 
-                img="https://cdn.glitch.com/2e860639-24bb-4041-8055-aed7de1c1244%2Fproject-4.jpg?v=1585088113836"
-                name="React GitHub Finder"
-                description="Enter Username to Bring Back GitHub Profile"
-                github="https://github.com/PhoebeYahengWu/react-github-finder"
-                site="https://react-github-profile-finder.herokuapp.com/" 
+                img="https://cdn.glitch.com/f28949c6-6f44-4abb-a9a1-6a9e90371a91%2Fimage-3.jpeg?v=1588474053478"
+                name="Database UI"
+                description="Create User Interface for MySQL Database"
+                github="https://github.com/PhoebeYahengWu/Company-Database-UI"
+                site="https://database-user-interface.herokuapp.com/" 
                 />
+
+
                 </div>
 
                 <div class="row pb-0 mb-0">
@@ -53,12 +80,13 @@ class Portfolio extends Component {
                 />
 
                 <Project 
-                img="https://cdn.glitch.com/f28949c6-6f44-4abb-a9a1-6a9e90371a91%2Fimage-3.jpeg?v=1588474053478"
-                name="Database UI"
-                description="Create User Interface for MySQL Database"
-                github="https://github.com/PhoebeYahengWu/Company-Database-UI"
-                site="https://database-user-interface.herokuapp.com/" 
+                img="https://cdn.glitch.com/2e860639-24bb-4041-8055-aed7de1c1244%2Fproject-4.jpg?v=1585088113836"
+                name="React GitHub Finder"
+                description="Enter Username to Bring Back GitHub Profile"
+                github="https://github.com/PhoebeYahengWu/react-github-finder"
+                site="https://react-github-profile-finder.herokuapp.com/" 
                 />
+
                 </div>
 
                 <div class="row pb-0 mb-0">
@@ -86,6 +114,8 @@ class Portfolio extends Component {
                 site="https://omdb-movie-search-tool.herokuapp.com/" 
                 />
                 </div>
+
+
                 </div>
             </>
         )

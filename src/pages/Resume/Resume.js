@@ -22,7 +22,7 @@ class Resume extends Component {
                 <div className="intro-section about">
                     <h1 className="title">about me</h1>
                     <p className="paragraph">
-                    I am Phoebe, an accountant and a front-end web developer. As an accountant, my experience lies in reconciliations and P&L analysis, and I'm capable of data wrangling and visualization through SQL, Python and Tableau, while also skilled at coding in VBA to automate event processes. As a web developer, I focus on creating modern-look websites using HTML, CSS, JavaScript, React, jQuery, Bootstrap and Materialize. Outside of work, I love Zumba! I was an aerobic dancing instructor for three years. I also love watching stand-up comedy in my free time. Sometimes I try to throw some jokes into conversations with friends. Most times, they fall flat - but hey, I try.
+                    I am Phoebe, an accountant and a web developer. As an accountant, my experience lies in reconciliations and P&L analysis, and I'm capable of data wrangling and visualization through SQL, Python and Tableau, while also skilled at coding in VBA to automate event processes. As a web developer, I focus on creating modern-look websites using React and JavaScript. Outside of work, I love Zumba! I was an aerobic dancing instructor for three years. I also love watching stand-up comedy in my free time. Sometimes I try to throw some jokes into conversations with friends. Most times, they fall flat - but hey, I try.
                     </p>
                 </div>
                 <div className="intro-section contact">
@@ -161,9 +161,9 @@ class Resume extends Component {
                         </div>
                         </li>
                         <li>
-                        <span>SQL</span>
+                        <span>Express</span>
                         <div className="sb-skeleton">
-                            <div className="skillbar" style={{"--pgbar-length": "85%"}}></div>
+                            <div className="skillbar" style={{"--pgbar-length": "80%"}}></div>
                         </div>
                         </li>
                         <li>
@@ -180,14 +180,14 @@ class Resume extends Component {
                         </li>
 
                         <li>
-                            <span>HTML</span> 
+                            <span>Excel</span> 
                             <div className="sb-skeleton">
-                            <div className="skillbar" style={{"--pgbar-length": "90%"}}></div>
+                            <div className="skillbar" style={{"--pgbar-length": "80%"}}></div>
                             </div>
                         </li>
 
                         <li>
-                            <span>CSS</span> 
+                            <span>React</span> 
                             <div className="sb-skeleton">
                             <div className="skillbar" style={{"--pgbar-length": "70%"}}></div>
                             </div>
@@ -196,19 +196,19 @@ class Resume extends Component {
                         <li>
                             <span>VBA</span> 
                             <div className="sb-skeleton">
-                            <div className="skillbar" style={{"--pgbar-length": "65%"}}></div>
+                            <div className="skillbar" style={{"--pgbar-length": "60%"}}></div>
                             </div>
                         </li>
 
                         <li>
-                            <span>React</span> 
+                            <span>MongoDB</span> 
                             <div className="sb-skeleton">
-                            <div className="skillbar" style={{"--pgbar-length": "65%"}}></div>
+                            <div className="skillbar" style={{"--pgbar-length": "80%"}}></div>
                             </div>
                         </li>
 
                         <li>
-                            <span>Excel</span> 
+                            <span>MySQL</span> 
                             <div className="sb-skeleton">
                             <div className="skillbar" style={{"--pgbar-length": "80%"}}></div>
                             </div>

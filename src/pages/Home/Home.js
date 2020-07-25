@@ -22,9 +22,7 @@ class Home extends Component {
                          <h3 className="animate__animated animate__fadeInTopLeft animate__delay-2s text">Hi, I'm Phoebe</h3> 
                          <h5 className="animate__animated animate__lightSpeedInRight animate__delay-3s text job">Aspiring CPA | Web Developer</h5><br/>
                           </div>
-
-
-                          <button type="button" id="resume" className="white-text btn waves-effect waves-light"><a target='_blank' rel="noopener noreferrer" href="https://cdn.glitch.com/bd6cde95-6d6d-44ba-a589-0cbd42159bd4%2FPhoebe%20(Yaheng)%20Wu%20Resume.pdf?v=1591280845655" download className="white-text">View My Resume</a></button> 
+                          <button type="button" id="resume" className="white-text btn waves-effect waves-light"><a target='_blank' rel="noopener noreferrer" href="https://cdn.glitch.com/03279a54-ead6-43fe-840a-8180cf9f1fc1%2FPhoebe%20(Yaheng)%20Wu%20Resume.pdf?v=1595651057028" download className="white-text">View My Resume</a></button> 
                       
                     </div> 
                 </div>
