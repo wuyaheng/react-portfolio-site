@@ -11,7 +11,7 @@ class Portfolio extends Component {
             <div class="container-fluid mt-4 mb-0 pb-3">
             <div class="row pb-0 mb-0">
                 <Project 
-                img="https://images.pexels.com/photos/988508/pexels-photo-988508.jpeg?cs=srgb&dl=tilt-lens-photography-of-black-wooden-table-988508.jpg&fm=jpg"
+                img="https://cdn.glitch.com/03279a54-ead6-43fe-840a-8180cf9f1fc1%2F1.webp?v=1595728173670"
                 name="Foodie App"
                 description="Fetch data from yelp API and save to MongoDB" 
                 github="https://github.com/PhoebeYahengWu/foodie"
