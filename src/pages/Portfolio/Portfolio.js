@@ -22,7 +22,7 @@ class Portfolio extends Component {
                 <Project 
                 img="https://cdn.glitch.com/03279a54-ead6-43fe-840a-8180cf9f1fc1%2F2.webp?v=1595652963132"
                 name="Beamifi App"
-                description="Log in and enter into chat room with friends"
+                description="Log in and enter into a chat room with friends"
                 github="https://github.com/PhoebeYahengWu/beamifi-chat-app"
                 site="https://beamifi-app.herokuapp.com/login" 
                 />
