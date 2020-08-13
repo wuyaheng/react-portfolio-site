@@ -10,12 +10,13 @@ class Portfolio extends Component {
         
             <div class="container-fluid mt-4 mb-0 pb-3">
             <div class="row pb-0 mb-0">
-                <Project 
-                img="https://cdn.glitch.com/03279a54-ead6-43fe-840a-8180cf9f1fc1%2F1.webp?v=1595728173670"
-                name="Foodie App"
-                description="Fetch data from yelp API and save to MongoDB" 
-                github="https://github.com/PhoebeYahengWu/foodie"
-                site="https://polar-castle-87426.herokuapp.com/" 
+
+               <Project 
+                img="https://cdn.glitch.com/cd99f035-ecbc-4ddd-9a8c-d2f6b5fff534%2Fpexels-photo-936575.jpeg?v=1597338130489"
+                name="Katabi"
+                description="Collaborate through a WebVR experience"
+                github="https://github.com/PhoebeYahengWu/katabi-co"
+                site="https://katabi.netlify.app/" 
                 />
 
                 <Project 
@@ -27,11 +28,11 @@ class Portfolio extends Component {
                 />
 
                 <Project 
-                img="https://cdn.glitch.com/03279a54-ead6-43fe-840a-8180cf9f1fc1%2F3.webp?v=1595653108037"
-                name="Search Yelp"
-                description="Created using React and yelp API"
-                github="https://github.com/PhoebeYahengWu/coffee-nearby-app"
-                site="https://joli-moliere-06904.herokuapp.com/" 
+                img="https://cdn.glitch.com/03279a54-ead6-43fe-840a-8180cf9f1fc1%2F1.webp?v=1595728173670"
+                name="Foodie App"
+                description="Fetch data from yelp API and save to MongoDB" 
+                github="https://github.com/PhoebeYahengWu/foodie"
+                site="https://polar-castle-87426.herokuapp.com/" 
                 />
                 </div>
                 <div class="row pb-0 mb-0">
@@ -107,11 +108,11 @@ class Portfolio extends Component {
                 />
 
                 <Project 
-                img="https://cdn.glitch.com/0818f487-5b8b-4080-900d-ad787673d146%2Fmovie.jpeg?v=1592283143988"
-                name="Movie Information Search"
-                description="Enter movie name to attain ratings and plot"
-                github="https://github.com/PhoebeYahengWu/movie-search-tool"
-                site="https://omdb-movie-search-tool.herokuapp.com/" 
+                img="https://cdn.glitch.com/03279a54-ead6-43fe-840a-8180cf9f1fc1%2F3.webp?v=1595653108037"
+                name="Search Yelp"
+                description="Created using React and yelp API"
+                github="https://github.com/PhoebeYahengWu/coffee-nearby-app"
+                site="https://joli-moliere-06904.herokuapp.com/" 
                 />
                 </div>
 
