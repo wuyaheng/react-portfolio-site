@@ -111,24 +111,24 @@ class Resume extends Component {
                     </div>
                     <div className="detail-content">
                     <div className="timeline-block">
-                        <h1>Accounting Information Systems Intern</h1>
+                        <h1>Software Engineer Intern</h1>
+                        <p>humanID, New York</p>
+                        <time>Aug 2020 – Dec 2020</time>
+                    </div>
+                    <div className="timeline-block">
+                    <h1>Accounting Information Systems Intern</h1>
                         <p>Jimmy Choo, New York</p>
                         <time>Jan 2020 – May 2020</time>
                     </div>
                     <div className="timeline-block">
-                        <h1>Budget Intern</h1>
+                    <h1>Budget Intern</h1>
                         <p>UN Women, New York</p>
                         <time>Nov 2018 - Jan 2019</time>
                     </div>
                     <div className="timeline-block">
-                        <h1>Group Audit Summer Analyst Intern</h1>
+                    <h1>Group Audit Summer Analyst Intern</h1>
                         <p>Deutsche Bank, New York</p>
                         <time>Jun 2018 - Aug 2018</time>
-                    </div>
-                    <div className="timeline-block">
-                        <h1>Legal Intern</h1>
-                        <p>Mona Shah & Associates, New York</p>
-                        <time>Apr 2014 - Sep 2014</time>
                     </div>
                     </div>
                 </div>
@@ -196,7 +196,7 @@ class Resume extends Component {
                         <li>
                             <span>VBA</span> 
                             <div className="sb-skeleton">
-                            <div className="skillbar" style={{"--pgbar-length": "60%"}}></div>
+                            <div className="skillbar" style={{"--pgbar-length": "80%"}}></div>
                             </div>
                         </li>
 
