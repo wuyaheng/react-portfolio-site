@@ -15,14 +15,14 @@ class Resume extends Component {
                     </div>
                     <div className="bio">
                     <h1 className="name">Phoebe Yaheng Wu</h1>
-                    <p className="profession">Accountant & Front-end web developer<br/>
+                    <p className="profession">Accountant & Full Stack Developer<br/>
                         CPA & CISA exam passed</p>
                     </div>
                 </div>
                 <div className="intro-section about">
                     <h1 className="title">about me</h1>
                     <p className="paragraph">
-                    I am Phoebe, an accountant and a web developer. As an accountant, my experience lies in reconciliations and P&L analysis, and I'm capable of data wrangling and visualization through SQL, Python and Tableau, while also skilled at coding in VBA to automate event processes. As a web developer, I focus on creating modern-look websites using React and JavaScript. Outside of work, I love Zumba! I was an aerobic dancing instructor for three years. I also love watching stand-up comedy in my free time. Sometimes I try to throw some jokes into conversations with friends. Most times, they fall flat - but hey, I try.
+                    I am Phoebe, an accountant and a full stack developer. As an accountant, my experience lies in reconciliations and P&L analysis, and I'm capable of data wrangling and visualization through SQL, Python and Tableau, while also skilled at coding in VBA to automate event processes. As a developer, I focus on building full stack web development projects using React, Node.js, MongoDB, and JavaScript. Outside of work, I love Zumba! I was an aerobic dancing instructor for three years. I also love watching stand-up comedy in my free time. Sometimes I try to throw some jokes into conversations with friends. Most times, they fall flat - but hey, I try.
                     </p>
                 </div>
                 <div className="intro-section contact">
