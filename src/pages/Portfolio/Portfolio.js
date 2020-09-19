@@ -12,11 +12,11 @@ class Portfolio extends Component {
             <div class="row pb-0 mb-0">
 
                <Project 
-                img="https://cdn.glitch.com/cd99f035-ecbc-4ddd-9a8c-d2f6b5fff534%2Fpexels-photo-936575.jpeg?v=1597338130489"
-                name="Katabi"
-                description="Collaborate through a WebVR experience"
-                github="https://github.com/PhoebeYahengWu/katabi-co"
-                site="https://katabi.netlify.app/" 
+                img="https://cdn.glitch.com/0cc91850-cd5e-4827-a102-0ddee1243509%2Fpolice.jpeg?v=1600473203128"
+                name="Arrest Data Visualization"
+                description="Display Every Arrest by the NYPD This Year"
+                github="https://github.com/PhoebeYahengWu/arrest-data-visualization"
+                site="https://visualization-on-nyc-arrest-data.netlify.app/" 
                 />
 
                 <Project 

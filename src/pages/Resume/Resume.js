@@ -155,13 +155,13 @@ class Resume extends Component {
                         </div>
                         </li>
                         <li>
-                        <span>NodeJS</span>
+                        <span>Node.js</span>
                         <div className="sb-skeleton">
                             <div className="skillbar" style={{"--pgbar-length": "70%"}}></div>
                         </div>
                         </li>
                         <li>
-                        <span>Express</span>
+                        <span>Express.js</span> 
                         <div className="sb-skeleton">
                             <div className="skillbar" style={{"--pgbar-length": "80%"}}></div>
                         </div>
